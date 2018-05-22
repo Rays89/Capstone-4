@@ -1,0 +1,9 @@
+C:\Users\Rachael\source\repos\Capstone 4\Capstone 4\bin\Capstone 4.dll.config
+C:\Users\Rachael\source\repos\Capstone 4\Capstone 4\bin\Capstone 4.dll
+C:\Users\Rachael\source\repos\Capstone 4\Capstone 4\bin\Capstone 4.pdb
+C:\Users\Rachael\source\repos\Capstone 4\Capstone 4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rachael\source\repos\Capstone 4\Capstone 4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rachael\source\repos\Capstone 4\Capstone 4\obj\Debug\Capstone 4.csprojResolveAssemblyReference.cache
+C:\Users\Rachael\source\repos\Capstone 4\Capstone 4\obj\Debug\Capstone 4.csproj.CoreCompileInputs.cache
+C:\Users\Rachael\source\repos\Capstone 4\Capstone 4\obj\Debug\Capstone 4.dll
+C:\Users\Rachael\source\repos\Capstone 4\Capstone 4\obj\Debug\Capstone 4.pdb
