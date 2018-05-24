@@ -7,7 +7,7 @@ function Addcart(name, price){
     names.push(name);
     prices.push(price);
 
-    document.getElementById('cart').innerHTML += `<tr><td>${name}</td><td>${price}</td></tr>`;//the + meaning you want it to keep adding into the cart
+    document.getElementById('cart').innerHTML += `<tr><td>${name}</td><td></td><td>${price}</td></tr>`;//the + meaning you want it to keep adding into the cart
     totalcart();
 }
 

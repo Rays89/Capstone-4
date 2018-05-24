@@ -76,13 +76,18 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="capstone.css" />
+    <Content Include="css.css" />
     <Content Include="Javascript.html" />
     <Content Include="JavaScript.js" />
     <Content Include="Products.html" />
+    <Content Include="Vector Shopping Cart with Shoes.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Image\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
